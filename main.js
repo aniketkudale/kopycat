@@ -45,11 +45,17 @@ app.on('ready', function() {
         click: function() {
             shell.openExternal('https://aniket.co');
         }
+    }, {
+        label: 'Quit',
+        click: function() {
+            app.isQuiting = true;
+            app.quit();
+        }
     })
 
     const ctxMenu = Menu.buildFromTemplate(template);
 
-    tray.setToolTip('Commands Helper');
+    tray.setToolTip('Fusion Dev Commands Helper');
     tray.setContextMenu(ctxMenu);
 });
 
