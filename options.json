@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "label": "Command 1",
+        "text": "command1"
+    },
+    {
+        "id": 2,
+        "label": "command 2",
+        "text": "command 2"
+    },
+    {
+        "id": 3,
+        "label": "command 3",
+        "text": ""
+    },
+    {
+        "id": 4,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 5,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 6,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 7,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 8,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 9,
+        "label": "",
+        "text": ""
+    },
+    {
+        "id": 0,
+        "label": "",
+        "text": "test"
+    }
+]
